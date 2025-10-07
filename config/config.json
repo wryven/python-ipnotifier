@@ -1,0 +1,5 @@
+{
+  "webhook_url": "YOUR_WEBHOOK_URL_HERE",
+  "check_interval": 300,
+  "ip_storage_file": "last_ip.txt"
+}
